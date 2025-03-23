@@ -23,7 +23,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrish2006&" alt="singhkrish2006" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=johnDoe&theme=radical&hide_border=true)
+
 
 
 ###
