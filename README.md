@@ -22,11 +22,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhkrish2006&show_icons=true&locale=en" alt="singhkrish2006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrish2006&" alt="singhkrish2006" /></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/singhkrish2006/singhkrish2006/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/singhkrish2006/singhkrish2006/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/singhkrish2006/singhkrish2006/output/pacman-contribution-graph.svg">
-</picture>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true)
+
 
 ###
 
