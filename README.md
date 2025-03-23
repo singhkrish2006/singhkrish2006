@@ -23,7 +23,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrish2006&" alt="singhkrish2006" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=johnDoe&theme=radical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)
+
 
 
 
