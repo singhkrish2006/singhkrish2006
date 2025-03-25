@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krish</h1>
+<h1 align="center">Hello, I'm Krish</h1>
 <h3 align="center">Crafting pixels & pushing code—building websites, coding DSA, and handling databases!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhkrish2006&label=Profile%20views&color=0e75b6&style=flat" alt="singhkrish2006" /> </p>
